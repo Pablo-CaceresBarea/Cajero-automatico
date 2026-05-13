@@ -1,4 +1,4 @@
-print('Sistema de Cajero Automatico')
+print('***Sistema de Cajero Automatico***')
 salir = False
 saldo = 1000
 
